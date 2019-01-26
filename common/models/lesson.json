@@ -1,0 +1,1 @@
+{"name":"Lesson","base":"PersistedModel","idInjection":true,"options":{"validateUpsert":true},"properties":{"title":{"type":"string","required":true},"description":{"type":"string"},"videoUrl":{"type":"string"},"resources":{"type":"string"}},"validations":[],"relations":{"sections":{"type":"hasMany","model":"section","foreignKey":""}},"acls":[],"methods":{}}
