@@ -1,0 +1,1 @@
+{"name":"affiliate","base":"PersistedModel","idInjection":true,"options":{"validateUpsert":true},"properties":{"code":{"type":"string"}},"validations":[],"relations":{},"acls":[],"methods":{}}
