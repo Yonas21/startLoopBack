@@ -1,12 +1,1 @@
-{
-    "db": {
-        "host": "localhost",
-        "port": 27017,
-        "url": "mongodb://localhost:27017/mukera",
-        "database": "mukera",
-        "password": "",
-        "name": "db",
-        "user": "",
-        "connector": "mongodb"
-    }
-}
+{"db":{"host":"localhost","port":27017,"url":"mongodb://localhost:27017/mukera","database":"mukera","password":"","name":"db","user":"","connector":"mongodb"}}
